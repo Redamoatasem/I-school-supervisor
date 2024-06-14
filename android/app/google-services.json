@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "296607228397",
+    "firebase_url": "https://ischool-web-a2d36-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ischool-web-a2d36",
+    "storage_bucket": "ischool-web-a2d36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296607228397:android:4bca1e4f6a3892ed7d87e4",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNnXNKLpb0ekwwfMiMRUh7URu6im-t8_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296607228397:android:c361367d009dbe717d87e4",
+        "android_client_info": {
+          "package_name": "com.example.tracker_login_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNnXNKLpb0ekwwfMiMRUh7URu6im-t8_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
